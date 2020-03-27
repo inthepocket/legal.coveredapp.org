@@ -3,17 +3,17 @@ layout: default
 permalink: /tc/nl
 ---
 
-DRAFT
+<mark>DRAFT!</mark>
 
-Gebruiksvoorwaarden voor de Track & trace App COVID-19
+# Gebruiksvoorwaarden voor de Track & trace App COVID-19
 
-1. Algemeen
+## Algemeen
 
 Deze gebruiksvoorwaarden (hierna Gebruiksvoorwaarden) beschrijven de voorwaarden waaronder gebruik kan worden gemaakt van de applicatie Track & trace COVID-19, alsook de privacyverklaring en -informatie die geldt voor de Gegevens die via de App worden verwerkt (hierna “de App”).
 
 Deze App werd ontwikkeld door de Universiteit Gent, openbare instelling met rechtspersoonlijkheid, met bestuurszetel  te 9000 Gent, Sint-Pietersnieuwstraat 25 en ondernemingsnummer 0248.015.142 (hierna “UGent" genoemd) in samenwerking met “In the Pocket ITP Agency NV” met maatschappelijke zetel te Sassevaartstraat 46/401, 9000 Gent, met ondernemingsnummer 0825.170.684, (hierna “ In The Pocket ” genoemd).
 
-2. Definities 
+## Definities
 
 App: De mobiele en online applicatie Track & trace COVID-19 waarop deze Gebruiksvoorwaarden van toepassing zijn.  
 
@@ -41,7 +41,8 @@ Inloggegevens: De inlognaam, het wachtwoord, de pincode of een andere wijze om d
 Apparatuur: De (rand)apparatuur, waaronder mede begrepen een smartphone of tablet waarmee de Gebruiker gebruik maakt van de App, inclusief het daarbij behorende besturingssysteem.
 Verwerkingsverantwoordelijke: de Universiteit Gent (hierna UGent).
 Verwerker: In the Pocket voor alle informatie die door de App verwerkt wordt en Google Cloud voor het opslaan en bewaren van deze informatie. 
-3. Toepasselijkheid en wijzigingen
+
+## Toepasselijkheid en wijzigingen
 
 Deze gebruiksvoorwaarden zijn van toepassing op het gebruik van de App. Door het downloaden, het registreren en/of het gebruiken van de App, gaat men akkoord met deze Gebruiksvoorwaarden. 
 
@@ -49,12 +50,15 @@ UGent heeft het recht deze Gebruiksvoorwaarden eenzijdig te wijzigen. De Gebruik
 Is of worden deze Gebruiksvoorwaarden gedeeltelijk ongeldig, dan blijven partijen aan het overblijvende gedeelte gebonden. Partijen zullen het ongeldige gedeelte vervangen door bedingen die wel geldig zijn en waarvan de rechtsgevolgen, gelet op de inhoud en strekking van deze Gebruiksvoorwaarden, zoveel mogelijk overeenstemmen met die van het ongeldige gedeelte.
 
 UGent heeft ook het recht om de App aan te passen, Gegevens te wijzigen of te verwijderen, het gebruik van de App te beperken of de toegang tot de App geheel of gedeeltelijk, tijdelijk of blijvend te ontzeggen. UGent en In the Pocket zullen de Gebruiker hierover tijdig en op passende wijze informeren.
-4. Licentie Applicatie
+
+## Licentie Applicatie
+
 De Inhoud van de App, de daarin opgenomen Gegevens, afbeeldingen, geluiden, teksten en combinaties daarvan en overige programmatuur worden beschermd door intellectuele eigendomsrechten. Deze intellectuele eigendomsrechten berusten bij de UGent en In the Pocket. Het is niet toegestaan enig onderdeel van deze App te kopiëren of te openbaren, exploiteren of op andere wijze te gebruiken, zonder voorafgaande toestemming van de UGent en In the Pocket.
 Nadat de Gebruiker zich heeft geregistreerd, verlenen UGent en In The Pocket de Gebruiker een niet exclusief, royaltyvrij en herroepbare licentie om de App te gebruiken in overeenstemming met deze App voorwaarden.
 De UGent en In the Pocket hebben ten allen tijde het recht om de in lid 1 van dit artikel bedoelde licentie te beëindigen en de Gebruiker daarmee het gebruik op de App te ontzeggen.
 De Gebruiker zal hierover op een passende wijze worden geïnformeerd door UGent en/of In the Pocket.
-5. Gebruik van de App
+
+## Gebruik van de App
  
 Op basis van locatiegegevens van een groot aantal Gebruikers zal een algoritme continu bijhouden welke Gebruikers zich op korte afstand (tot 5 m nauwkeurig) van elkaar bevinden. Aan de hand van deze locatiegegevens zal de App de Gebruiker snel en adequaat kunnen informeren over mogelijke gezondheidsimplicaties, zoals wanneer de Gebruiker risico-contacten had, en te ondernemen acties.  Indien de 
 De Gebruiker downloadt de App. Eens de Gebruiker de App gedownload heeft, wordt hij/zij gevraagd om akkoord te gaan met deze Gebruiksvoorwaarden en om aan te geven dat hij/zij de privacyverklaring begrepen heeft. Het downloaden en het akkoord gaan met de Gebruiksvoorwaarden, houdt de toestemming van de Gebruiker in voor het functioneren van de App. Dit betekent dat er vanaf dat moment Functionele Gegevens verzameld en verwerkt worden. 
@@ -100,14 +104,14 @@ De Gebruiker vrijwaart UGent en In the Pocket voor alle mogelijke aanspraken van
 De Gebruiker draagt zelf en voor eigen rekening zorg voor de noodzakelijke hard- en software, randapparatuur en (internet)verbindingen om de toegang tot en het gebruik van de App en het Gebruikersaccount mogelijk te maken. De Gebruiker kan geen aanspraak maken op enige vergoeding voor het gebruik van de Gegevens door UGent. 
 De Gebruiker zal UGent alle medewerking verlenen die redelijkerwijs van haar kan worden verwacht bij het uitvoeren van onderhoudswerkzaamheden aan de App.
 Het gebruik van de App kan op ieder gewenst moment door de Gebruiker worden beëindigd, door de App te de-installeren (Zie: ”Beëindiging en deactiveren App”).
-6. Registratie en leeftijd
+## Registratie en leeftijd
 Voor het gebruik van de App dient de Gebruiker zich te registreren op de daarvoor aangegeven wijze(n). Bij de registratie is de Gebruiker verplicht naar waarheid de informatie in te voeren waarom UGent verzoekt. De Gebruiker dient eventuele wijzigingen van Gegevens onmiddellijk via de App te wijzigen.
 Indien de Gebruiker jonger is dan 13 jaar, dan dienen diens ouders of wettelijke vertegenwoordiger toestemming te geven voor het gebruik van de App. Door de Gebruiksvoorwaarden te accepteren, verklaart en garandeert de Gebruiker 13 jaar of ouder te zijn, of toestemming te hebben van diens ouders of wettelijke vertegenwoordiger.
-7. Kosten
+## Kosten
 
 De UGent brengt voor het gebruik van de App geen kosten in rekening. De Gebruiker draagt zelf de kosten van de aanschaf en gebruik van de Apparatuur en verbindingen (mobiel en/of draadloos internet) die nodig zijn voor het gebruik van de diensten via de App. 
 
-8. Aansprakelijkheid 
+## Aansprakelijkheid 
 
 De UGent en In the Pocket spannen zich in voor optimale beschikbaarheid en bereikbaarheid van de App. De UGent en In the Pocket geven geen garanties met betrekking tot de originaliteit, de volledigheid, de nauwkeurigheid, de juistheid, de geschiktheid, de beschikbaarheid en/of de bereikbaarheid van de App en/of van de Gegevens.
 
@@ -128,21 +132,22 @@ De UGent en In the Pocket zijn niet aansprakelijk voor enig(e) verlies, schade e
 
 De App kan banners en links bevatten naar externe internetpagina’s. De UGent en In the Pocket zijn niet aansprakelijk voor het gebruik, de inhoud of het (niet-)functioneren van deze (externe) internetpagina’s en aanvaarden hiervoor geen aansprakelijkheid. De UGent en In the Pocket zijn niet verantwoordelijk voor het verwerken van uw persoonsGegevens op deze (externe) internetpagina’s. 
 
-9. Overdracht rechten en verplichtingen 
+## Overdracht rechten en verplichtingen 
 UGent en/of In the Pocket zijn gerechtigd de rechten en verplichtingen uit deze Gebruiksvoorwaarden aan een derde over te dragen.
-10. Beëindiging en deactiveren App
+
+## Beëindiging en deactiveren App
 UGent en In the Pocket en de Gebruiker kunnen te allen tijde en zonder opgaaf van redenen het gebruik van of gebruiksrecht op de App met onmiddellijke ingang beëindigen. 
 
 De Gebruiker kan het gebruik van de App zelf beëindigen door (1) de applicatie uit te schakelen door in de instellingen van de App de optie ‘desactiveer alle functies’ te kiezen of (2) de applicatie te verwijderen. Bij het verwijderen van de App worden automatisch ook de Gegevens van de betreffende Gebruiker verwijderd.
 
 UGent en In the Pocket zijn niet aansprakelijk voor schade voortvloeiende uit de beëindiging op grond van het voorgaande lid. De beëindiging van de Gebruiksovereenkomst, op welke wijze dan ook, brengt tevens mee dat UGent en In the Pocket het gebruik van de Applicatie afsluit.
 
-11. Toepasselijk recht en geschillen
+## Toepasselijk recht en geschillen
 Alle geschillen die voortvloeien uit of verband houden met het gebruik van de App en de relatie tussen de partijen en ongeacht of alle voornoemde geschillen worden beschouwd als contractuele vorderingen, worden uitsluitend beheerst door en beslecht volgens Belgisch recht. 
 
 Alle geschillen die zouden rijzen uit of met betrekking tot dit gebruik, zullen uitsluitend voorgelegd worden aan de rechtbanken van Oost-Vlaanderen, afdeling Gent (België). 
 
-12. Overige bepalingen
+## Overige bepalingen
 Voor eventuele vragen, opmerkingen of klachten ten aanzien van App of de diensten, kunt u contact opnemen met de UGent en In the Pocket op telefoonnummer ………………. of via de website ……………………….
 
 Privacyverklaring
@@ -151,7 +156,8 @@ De UGent verwerkt jouw Gegevens in overeenstemming met Verordening (EU) 2016/679
 Indien er wetenschappelijk onderzoek over de inzichten van deze App en de daarin verzamelde Gegevens wordt uitgevoerd, zal dit steeds op een geaggregeerd niveau zijn zodat je als persoon niet direct herkenbaar of identificeerbaar bent. De Gegevens zijn altijd minstens gepseudonimiseerd door gebruik van je unieke deviceID.
 Gegevens uit de App zullen enkel opgeslagen worden in functie van (1) inzicht in de eigen risico-contacten voor de Gebruiker, met inbegrip van de eventuele pre-anamnese (2) het genereren van nauwkeurige en actuele Gegevens voor wetenschappelijk onderbouwde beleidskeuzes in tijden van crisis en (3) het verlichten van de gezondheidszorg. 
 Indien, onder buitengewone omstandigheden, incidentele bevindingen gevonden worden, zullen deze op een confidentiële wijze meegedeeld worden aan de Gebruiker via push notifications. Indien de Gebruiker de toestemming heeft gegeven om de pre-anamnese te delen met een arts, gebeurt dit buiten de App, waardoor de UGent niet optreedt als verwerkingsverantwoordelijke. 
-1. Welke Gegevens verzamelen we?
+
+### Welke Gegevens verzamelen we?
 Als Gebruiker verzamelen en verwerken we volgende Gegevens:
 je GPS gegevens
 je Bluetooth gegevens
@@ -176,7 +182,7 @@ de inhoud van berichten, e-mails, agenda, notificaties of andere inhoud (behalve
 beelden, foto’s, video’s, of geluidsopnames 
 Wanneer je zelf berichten deelt waarin je verwijst naar de App, hebben de UGent en In the Pocket het recht om hier gebruik van de maken. Hierbij gaat het onder meer over artikels, tekstberichten, tweets.
 De App zorgt voor passende technische en organisatorische maatregelen om de persoonsgegevens te beveiligen tegen enige vorm van verlies of onrechtmatige verwerking. (Zie: “technische en organisatorische maatregelen en bewaartermijn”). 
-2. Voor welk doeleinde? 
+### Voor welk doeleinde? 
 Het doel van de App is om potentiële besmette en niet besmette clusters (groep van personen), hotspots en super verspreiding (blootstelling aan vele Gebruikers) in kaart te brengen om zo het virus te kunnen indijken. 
 
 Meer concreet zal de App:
@@ -184,13 +190,12 @@ Gebruikers snel en adequaat kunnen informeren over hun risico-contacten en te on
 nauwkeurige en actuele Gegevens voor wetenschappelijk onderbouwde beleidskeuzes in tijden van crisis genereren 
 de gezondheidszorg verlichten door het screenen en testen te faciliteren 
 Om dit te bereiken heeft de App de hierboven opgesomde Gegevens van de Gebruikers nodig.
-3. Hoe worden je persoonsgegevens verzameld en verwerkt in het kader van de 
- 	app?
+### Hoe worden je persoonsgegevens verzameld en verwerkt in het kader van de app?
 De Gegevens die de App over jou verzameld, zijn volledig geëncrypteerd en gepseudonimiseerd om je privacy te beschermen: de Gegevens kunnen enkel aan je toestel gelinkt worden, niet aan je naam. Dit gebeurt op basis van een unieke ID (“deviceID”) die door de App gecreëerd wordt. Jouw Gegevens worden bewaard in het beveiligde Google Cloud Platform en zijn voor Google zelf niet leesbaar. Ze kunnen enkel door jezelf, door een door jou toegelaten arts en door de betrokken onderzoekers geraadpleegd worden. Op welke manier je Gegevens beveiligd worden en welke personen precies toegang hebben, wordt verder in deze privacyverklaring duidelijk opgelijst. (Zie: “wie zal toegang hebben tot je persoonsgegevens” en “technische en organisatorische maatregelen en bewaartermijn“)
 De Gegevens verzameld in je dagboek en in het kader van de pre-anamnese zijn verbonden aan je deviceID en de toegang tot de Gegevens verzameld in het kader van de pre-anamnese is voorbehouden voor artsen die een verklaarde therapeutische relatie met jou hebben; een dergelijke toegang door een arts kan enkel op jouw initiatief en mits jouw toestemming. Om deze therapeutische relatie vast te leggen en je pre-anamnese met deze arts te delen, dien je je rijksregisternummer en GSM nummer in te geven in de App. Je rijksregisternummer en GSM nummer worden in de App enkel gebruikt om ervoor te zorgen dat de informatie van de pre-anamnese via CoZo (het platvorm van de arts) toegankelijk is voor de arts die je raadpleegt. Je rijksregisternummer en je GSM nummer worden in de App afzonderlijk van de overige Gegevens bewaard tot het moment dat de arts toegang verleend is verleend tot je Gegevens; nadien worden je rijksregisternummer en je GSM nummer in de App verwijderd. De consultatie en diagnosestelling gebeurt immers door de arts in CoZo, een volledig beveiligd platform dat door eHealth gecertificeerd is. De App stelt geen diagnoses. Door het verzamelen van deze resultaten kan de App potentiële besmette en niet besmette clusters (groep van personen), hotspots en super verspreiding (blootstelling aan vele Gebruikers) in kaart brengen. 
 De App zal je op basis van je “deviceID” kunnen identificeren en in een cluster nagaan of andere Gebruikers uit deze cluster reeds besmet zijn. Op basis van specifieke technieken (“machine learning” en “modelling”) zal dan berekend worden welke Gebruikers binnen de cluster een grote kans hebben om eveneens besmet te zijn. Zij zullen dan via de app gepaste informatie m.b.t. te nemen acties ontvangen. 
 Met behulp van netwerkanalyse kan de “meest centrale Gebruiker” van een cluster worden geïdentificeerd (louter door de deviceID), waardoor het screenen of testen van deze Gebruiker meteen heel wat besmettingslijnen al dan niet kan uitsluiten bij respectievelijk negatieve of positieve testresultaten en diagnoses. Deze informatie is een meerwaarde voor de bestrijding van het coronavirus en kan helpen om het gezondheidszorgsysteem te ontlasten.
-4. Wie zal toegang hebben tot je persoonsgegevens?
+### Wie zal toegang hebben tot je persoonsgegevens?
 Alle hieronder opgesomde personen hebben slechts toegang indien dit nodig is voor het functioneren van de App. (m.a.w. op een strikte “need-to-know” basis). De toegang geldt enkel voor de doeleinden vermeld in deze privacyverklaring. 
 Analisten: hebben toegang tot je data. Deze analisten zijn UGent’ers en hebben toegang nodig tot de data om te analyseren en zo de doelstellingen van de App te verwezenlijken. Deze UGent’ers zijn gebonden aan de Generieke Gedragscode voor de verwerking van persoonsgegevens en vertrouwelijke informatie binnen de UGent. 
 Ontwikkelaars van In the Pocket: hebben geen toegang tot je data. Zij hebben enkel toegang tot testdata (dummy data of ontwikkeld zonder persoonsgegevens). 
@@ -199,18 +204,18 @@ Cloud provider: Google Cloud voor het bewaren van je Gegevens. Google treedt op 
 Artsen waar we mee samenwerken binnen de App. Zij krijgen inzicht in de gezondheidsgegevens en de pre-anamnese, nadat de Gebruiker hier toestemming toe verleend heeft en de therapeutische relatie met de arts bevestigd is. Artsen hebben geenszins toegang tot Gegevens van Gebruikers die hen niet gecontacteerd hebben en/of waarmee zij geen therapeutische relatie bevestigd/gedeclareerd hebben. 
 Het platform dat door artsen gebruikt wordt om hun diagnoses op te maken en te linken aan een specifieke patiënt, bijvoorbeeld CoZo. Dit platform krijgt inzicht in de gezondheidsgegevens en de pre-anamnese, nadat de Gebruiker hier zelf toestemming toe verleend heeft en de therapeutische relatie door de arts bevestigd werd in dit platform. Er worden verder geen Gegevens uitgewisseld met deze platformen.
 Je Gegevens worden verder niet gedeeld met derden.
-5. Technische en organisatorische maatregelen en bewaartermijn
+### Technische en organisatorische maatregelen en bewaartermijn
 De UGent en de betrokken onderzoekers hebben gepaste technische en organisatorische maatregelen geïncorporeerd in de App, om jouw Gegevens te beveiligen en je privacy te beschermen.
 Alle Gegevens in de App worden lokaal op je toestel en tijdens de uitwisseling van je toestel naar de App geëncrypteerd. Bovendien zijn deze Gegevens enkel gelinkt aan je unieke deviceID,  waardoor alle Gegevens gepseudonimiseerd zijn. 
 Je verzamelde (persoons)Gegevens worden geëncrypteerd opgeslagen en regelmatig geback-upt in een beveiligde Google Cloud gedurende het gebruik van de App. Ook met Google hebben we contractueel dezelfde bescherming vastgelegd, Google heeft geen toegang tot je Gegevens. 
 De Gegevens zullen worden opgeslagen gedurende het gebruik van de App. Bij het verwijderen van de App worden automatisch ook je Gegevens en je devideID verwijderd.  
-6. Jouw rechten 
+### Jouw rechten 
 Jouw gebruik van de App is vrijblijvend en uit vrije wil. Je hebt het recht om op elk moment, zonder dat je hiervoor een reden moet opgeven, je medewerking stop te zetten. Dit kan heel eenvoudig door (1) de applicatie uit te schakelen door in de instellingen van de app de optie ‘desactiveer alle functies’ te kiezen of (2) de applicatie te verwijderen.
 Daarenboven kan je ons uitdrukkelijk verzoeken om de door ons verzamelde Persoonsgegevens van jou te kunnen inkijken, te laten corrigeren, over te dragen, de verwerking ervan te beperkten of je Gegevens uit onze bestanden te verwijderen. Dit kan via een eenvoudig verzoek per mail aan (XXX), waarbij we jouw aanvraag binnen een termijn van zeven dagen trachten te verwerken. Dit uitgezonderd de Gegevens die door de arts tijdens de diagnose verzameld worden, deze worden niet bewaard of verwerkt in de App.
 Om je rechten te kunnen uitoefenen gebruiken we je deviceID, dit is immers de enige manier waarop we je toestel kunnen identificeren. 
  
 Bij het verwijderen van de App worden automatisch ook je Gegevens en je deviceID verwijderd, hierdoor is het niet meer mogelijk om bovenstaande rechten uit te oefenen.
-7. Contact
+### Contact
 Met al je vragen en/of opmerkingen kan je altijd terecht bij ons via het emailadres (nog aan te vullen), of telefonisch (nog aan te vullen). 
 Voor verdere vragen over de verschillende rechten en plichten op het gebied van privacy, of indien je meent dat je Persoonsgegevens onterecht en/of onjuist worden verwerkt door de Universiteit Gent, kan je terecht bij de Functionaris Gegevensbescherming (Data Protection Officer) van de UGent via privacy@ugent.be.
 Deze privacyverklaring kan worden aangepast om te voldoen aan de toepasselijke wetgeving en om te zorgen dat ze up to date is met de App. Indien deze verklaring aangepast wordt, zal via de app melding van gemaakt worden en de gewijzigde verklaring beschikbaar gesteld worden.
