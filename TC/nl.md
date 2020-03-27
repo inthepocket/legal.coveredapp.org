@@ -3,7 +3,7 @@ layout: default
 permalink: /tc/nl
 ---
 
-<mark>DRAFT!</mark>
+<mark>DRAFT</mark>
 
 # Gebruiksvoorwaarden voor de Track & trace App COVID-19
 
