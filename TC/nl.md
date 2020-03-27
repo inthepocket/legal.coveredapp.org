@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /nl
+permalink: /tc/nl
 ---
 
 DRAFT
