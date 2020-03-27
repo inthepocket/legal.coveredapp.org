@@ -2,15 +2,14 @@
 layout: default
 permalink: /tc/nl
 ---
-DRAFT voor CLOSED BETA
 
-# Gebruiksvoorwaarden voor de COVerdApp
+# Gebruiksvoorwaarden voor de COVeredApp
 
 Vind je Gebruiksvoorwaarden lang, moeilijk en vol met legalese? Wij ook. We vinden het echter belangrijk om je te informeren over de manier waarop je gebruik kan maken van de COVeredApp. 
 
 Daarom hebben we deze 2 minuten durende samenvatting voor je gemaakt. Deze samenvatting geeft je de nodige informatie en alles wat je moet weten in een mum van tijd!
 
-## Eerst en vooral, wat is de COVerdApp?
+## Eerst en vooral, wat is de COVeredApp?
 
 -   UGent en In The Pocket hebben de handen in elkaar geslagen om een app te maken in het kader van de huidige corona-crisis. Met behulp van deze app en in het bijzonder met behulp van jouw hulp kunnen we de verspreiding van het virus in kaart brengen. Dit zal ons helpen om meer gericht te kunnen handelen in de strijd tegen COVID-19.
 
