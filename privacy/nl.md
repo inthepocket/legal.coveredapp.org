@@ -124,7 +124,7 @@ Alle hieronder opgesomde personen hebben slechts toegang indien dit nodig is voo
 
 Je Persoonsgegevens worden verder *niet gedeeld* met of toegankelijk gemaakt voor derden.
 
-**5\. Technische en organisatorische maatregelen en bewaartermijn**
+### 5\. Technische en organisatorische maatregelen en bewaartermijn
 
 De UGent en de betrokken onderzoekers hebben gepaste technische en organisatorische maatregelen geïncorporeerd in de App om jouw Persoonsgegevens te beveiligen en je privacy te beschermen.
 
@@ -134,7 +134,7 @@ Daarnaast worden je Persoonsgegevens geëncrypteerd opgeslagen en regelmatig geb
 
 Je Persoonsgegevens zullen worden opgeslagen en bewaard gedurende de testperiode van de App, die **maximum 3 maanden** duurt. 
 
-**6\. Jouw rechten **
+### 6\. Jouw rechten
 
 Recht van toegang en inzage: Je hebt het recht om op elk moment gratis kennis te nemen van je Persoonsgegevens, alsook van het gebruik dat UGent van je Persoonsgegevens maakt. 
 
@@ -158,7 +158,7 @@ Het uitoefenen van je rechten kan via een eenvoudig verzoek per e-mail aan cover
 
 Om je rechten te kunnen uitoefenen gebruiken we je deviceID, dit is immers de enige manier waarop we je toestel kunnen identificeren. Bij het verwijderen van de App worden automatisch ook je Persoonsgegevens en je deviceID verwijderd, hierdoor is het niet meer mogelijk om bovenstaande rechten uit te oefenen.
 
-**7\. Contact**
+### 7\. Contact**
 
 Met al je vragen en/of opmerkingen kan je altijd terecht bij ons via het e-mailadres coveredapp@ugent.be). Voor verdere vragen over de verschillende rechten en plichten op het gebied van privacy, of indien je meent dat je Persoonsgegevens onterecht en/of onjuist worden verwerkt door de UGent, kan je terecht bij de Functionaris Gegevensbescherming (Data Protection Officer) van de UGent via privacy@ugent.be.
 
@@ -166,7 +166,7 @@ Voor verdere vragen over de verschillende rechten en plichten op het gebied van 
 
 Deze privacyverklaring kan worden aangepast om te voldoen aan de toepasselijke wetgeving en om te zorgen dat ze up to date is met de App. Indien deze verklaring aangepast wordt, zal via de app melding van gemaakt worden en de gewijzigde verklaring beschikbaar gesteld worden.
 
-**8\. Toepasselijk recht en bevoegde rechtbank**
+### 8\. Toepasselijk recht en bevoegde rechtbank**
 
 Dit Privacybeleid wordt beheerst, uitgelegd en uitgevoerd in overeenstemming met het Belgisch recht dat exclusief van toepassing is.
 
