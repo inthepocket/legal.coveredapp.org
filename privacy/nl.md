@@ -10,8 +10,8 @@ Daarom geven we je deze 2 minuten durende samenvatting. Deze samenvatting geeft 
 
 **Wat er te weten valt:**
 
-Ten eerste: je blijft altijd de enige eigenaar van jouw Persoonsgegevens**.
-**De **UGent** treedt op als **verwerkingsverantwoordelijke** van jouw Persoonsgegevens in deze App: zij zorgen ervoor dat je Persoonsgegevens en Privacy beschermd blijven. 
+Ten eerste: je blijft altijd de enige eigenaar van jouw Persoonsgegevens.
+**De UGent** treedt op als **verwerkingsverantwoordelijke** van jouw Persoonsgegevens in deze App: zij zorgen ervoor dat je Persoonsgegevens en Privacy beschermd blijven. 
 
 **Welke informatie verzamelen we over jou?**
 
