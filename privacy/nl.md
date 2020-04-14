@@ -52,21 +52,21 @@ Wil je meer weten: dan nodigen we je uit om onze volledige Privacyverklaring te 
 
 **Algemeen  1**
 
-**1\. Welke Gegevens verzamelen we?  2**
+**1\. Welke Gegevens verzamelen we?
 
-**2\. Voor welk doeleinde?  4**
+**2\. Voor welk doeleinde?
 
-**3\. Hoe worden je Persoonsgegevens verzameld en verwerkt in het kader van de App?  4**
+**3\. Hoe worden je Persoonsgegevens verzameld en verwerkt in het kader van de App?
 
-**4\. Wie zal toegang hebben tot je Persoonsgegevens?  5**
+**4\. Wie zal toegang hebben tot je Persoonsgegevens?
 
-**5\. Technische en organisatorische maatregelen en bewaartermijn  5**
+**5\. Technische en organisatorische maatregelen en bewaartermijn
 
-**6\. Jouw rechten  6**
+**6\. Jouw rechten
 
-**7\. Contact  7**
+**7\. Contact
 
-**8\. Toepasselijk recht en bevoegde rechtbank  7**
+**8\. Toepasselijk recht en bevoegde rechtbank
 
 **Algemeen**
 
