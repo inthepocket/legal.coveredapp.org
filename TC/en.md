@@ -15,8 +15,8 @@ For that reason, we have compiled this brief summary, which provides you with th
 **When can you use the App?**
 
 -   Before you can start using the App, you must accept our Terms of Use, which explain the rules for using our services.
-- 	To use the App, you must be of legal age (18 years or older).
--	  There is no charge for using the App.
+-   To use the App, you must be of legal age (18 years or older).
+-   There is no charge for using the App.
 
 
 **How can you use the App?**
@@ -28,10 +28,10 @@ For that reason, we have compiled this brief summary, which provides you with th
 
 **Also important to know:**
 
--	  While Ghent University and In The Pocket will always remain the owners of the App and all related intellectual property rights.
--	  Ghent University and In The Pocket are not liable for any use of the App, except in the case of an intentional error on our part.
--	  Our Terms of Use may be amended from time to time; you will be notified via a message from the App (push notification) in a timely manner and you retain the option to terminate your use of the App by deleting the App.
--	  The app is developed around the concept of theoretical anonymity, meaning nobody can determine the identity of an individual user based on the information that the app collects, nor can any type of information afterwards be link back to a single user. 
+-   While Ghent University and In The Pocket will always remain the owners of the App and all related intellectual property rights.
+-   Ghent University and In The Pocket are not liable for any use of the App, except in the case of an intentional error on our part.
+-   Our Terms of Use may be amended from time to time; you will be notified via a message from the App (push notification) in a timely manner and you retain the option to terminate your use of the App by deleting the App.
+-   The app is developed around the concept of theoretical anonymity, meaning nobody can determine the identity of an individual user based on the information that the app collects, nor can any type of information afterwards be link back to a single user. 
 
 If you would like to know more, then please read our full Terms of Use, which explain everything in detail!
 
