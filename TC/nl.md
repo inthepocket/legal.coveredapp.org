@@ -43,7 +43,7 @@ Deze gebruiksvoorwaarden (hierna Gebruiksvoorwaarden) beschrijven de voorwaarden
 
 Deze App werd ontwikkeld door de Universiteit Gent, openbare instelling met rechtspersoonlijkheid, met bestuurszetel  te 9000 Gent, Sint-Pietersnieuwstraat 25 en ondernemingsnummer 0248.015.142 (hierna "UGent" genoemd) in samenwerking met "In the Pocket ITP Agency NV" met maatschappelijke zetel te Sassevaartstraat 46/401, 9000 Gent, met ondernemingsnummer 0825.170.684, (hierna " In The Pocket " genoemd).
 
-**2\. Definities **
+**2\. Definities**
 
 **App:** De mobiele en online applicatie SymMapp waarop deze Gebruiksvoorwaarden van toepassing zijn.  
 
