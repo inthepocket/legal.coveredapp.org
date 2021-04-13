@@ -10,7 +10,7 @@ For that reason, we have compiled this brief summary, which provides you with th
 
 **First and foremost, what is the SymMapp?**
 
--   Ghent University and In The Pocket have joined forces to create an App amidst the current corona crisis. With the help of this App and with your help, in particular, we can map the spread of the virus. This will help us to be more focused in the fight against COVID-19.
+-   SymMapp is part of a research project conducted by the University of Ghent and University of Hasselt. The app is part of a Citizen Science approach, where the reserach hope with the help of this App and with especially your help, in particular, to conduct research on the potential of collecting subjective health symptoms in order to map spread patterns that might be an indication of COVID-19. Users will keep a daily log where they register whether they believe to experience any symptoms or not. By collecting the data, the research project aims to predict outbreaks and spread patterns of COVID-19. This is done in a completely anonymized way, respecting the complete privacy of the user (more information under 7. 'Confidentiality and theoretical anonymity').
 
 **When can you use the App?**
 
@@ -35,6 +35,15 @@ For that reason, we have compiled this brief summary, which provides you with th
 
 If you would like to know more, then please read our full Terms of Use, which explain everything in detail!
 
+**By downloading this app and accpeting the Terms of Use**
+
+-   You agree to that the information collected in the app will be used in the SymMapp research project.
+-   You represent and warrant that you are 18 years of age or older. Users under 18 are not permitted to use the App.
+-   You consent to the operation of the App. This means that from that moment on, User Data and Functional Data about you will be processed (see 2. 'Definitions').
+-   You acknowledge to be aware of the fact that the UGent does not charge for the use of the App.
+
+Should you have any questions and/or remarks, please do not hesitate to contact us via symmapp@ugent.be.
+
 **Terms of Use for the SymMapp**
 
 **1\. General**
@@ -43,7 +52,7 @@ These Terms of Use (hereinafter "Terms of Use") describe the conditions under wh
 
 This App has been developed by the University of Ghent, public institution with legal personality, with registered office at 9000 Ghent, Sint-Pietersnieuwstraat 25 and company number 0248.015.142 (hereinafter referred to as "UGent") in collaboration with "In the Pocket ITP Agency NV" with registered office at Sassevaartstraat 46/401, 9000 Ghent, with company number 0825.170.684, (hereinafter referred to as "In The Pocket").
 
-**2\. Definitions **
+**2\. Definitions**
 
 **App:** The SymMapp mobile and online application to which these Terms of Use apply
 
@@ -72,8 +81,11 @@ This App has been developed by the University of Ghent, public institution with 
 **3\. Applicability and changes**
 
 These Terms of Use apply to the use of the App.
+
 After downloading the App, you as a User will be asked to agree to these Terms of Use.
+
 UGent has the right to change these Terms of Use unilaterally. You will be notified of this via a message from the App (push notification) in a timely manner and you retain the option to terminate your use of the App by deleting the App.
+
 If these Terms of Use have become partially invalid, you, UGent and In The Pocket will remain bound by the remaining part. UGent and In The Pocket will replace the invalid part with terms that are valid and whose legal effect, given the content and purport of these Terms of Use, corresponds to that of the invalid part as closely as possible.
 Moreover, UGent has the right to modify the App, amend or delete Data, limit the use of the App or deny access to the App in whole or in part, temporarily or permanently. UGent and In The Pocket will inform you of this in a timely and appropriate manner.
 
@@ -147,7 +159,7 @@ The use of the App may be terminated by you at any time by uninstalling it (See:
 
 To use the App, you need to go through an onboarding flow. In this flow, you must truthfully enter the information requested by UGent. Any changes to Data should be made immediately via the App.
 
-By accepting the Terms of Use, you represent and warrant that you are 18 years of age or older. Users under 13 are not permitted to use the App.
+By accepting the Terms of Use, you represent and warrant that you are 18 years of age or older. Users under 18 are not permitted to use the App.
 
 **7\. Confidentiality and theoretical anonymity**
 
@@ -169,7 +181,7 @@ This approach allows the app to collect information on spread-patterns and trans
 
 UGent does not charge for the use of the App. The User bears the costs of the purchase and use of the Equipment and connections (mobile and/or wireless internet) required for the use of the services via the App.
 
-**9\. Liability **
+**9\. Liability**
 
 UGent and In the Pocket work hard to make the App optimally available and accessible. They make no guarantees as to the originality, completeness, accuracy, suitability, availability and/or accessibility of the App and/or the Data.
 
@@ -189,7 +201,7 @@ UGent and In The Pocket cannot be held liable for any failure or delay in the pe
 
 The App may contain banners and links to external internet pages. UGent and In The Pocket are not liable for the use, content or (non-)functioning of these (external) internet pages and accept no liability for this. UGent and In The Pocket are not responsible for your Personal Data being processed on these (external) internet pages.
 
-**10\. Transfer of rights and obligations **
+**10\. Transfer of rights and obligations**
 
 UGent and/or In the Pocket are entitled to transfer the rights and obligations of these Terms of Use to a third party.
 
